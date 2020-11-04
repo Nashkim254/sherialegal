@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60175023960",
+    "firebase_url": "https://sherialegal.firebaseio.com",
+    "project_id": "sherialegal",
+    "storage_bucket": "sherialegal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60175023960:android:a908e1a061796aff87af2d",
+        "android_client_info": {
+          "package_name": "com.example.sheria_legal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60175023960-93rucm6rnau1rksikfe6gtugmp3blm6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sheria_legal",
+            "certificate_hash": "c2b9f49f5697028d48abe3611830370c3ceb001e"
+          }
+        },
+        {
+          "client_id": "60175023960-ocga5ai598c3o5shv96qge99jjl435ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2P4DL0gO2NQCkdxqJHfYFLlUOCB7UVMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60175023960-ocga5ai598c3o5shv96qge99jjl435ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
